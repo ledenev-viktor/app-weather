@@ -2,6 +2,9 @@
   "name": "@ledenev/weather-cli",
   "version": "1.0.0",
   "description": "",
+  "publishConfig": {
+    "access": "public"
+  },
   "main": "weather.js",
   "bin": {
     "weather": "weather.js"
